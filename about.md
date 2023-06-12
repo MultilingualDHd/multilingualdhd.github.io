@@ -1,13 +1,8 @@
 ---
-title: readme
-author: Till Grallert
-date: 2023-06-02
-lang: de
+layout: page
+title: Über uns
+permalink: /about/
 ---
-
-This is a place-holder for the future website of the DHd Working Group "Multilingual DH". The current website is [here](https://m-l-d-h.github.io/DHd-AG/)
-
-# DHd-Arbeitsgruppe Multilingual DH
 
 Unter den Stichworten “Decolonizing DH” oder “Disrupting Digital Monolingualism” wurde in der letzten Zeit Kritik an der einseitigen Zentrierung der Digital Humanities auf lateinbasierte Schriftsprachen laut. Dies umfasst mehrere Ebenen.
 
@@ -17,7 +12,7 @@ Neben diesen praktischen Problemen beinhaltet die Kritik aber auch eine Auseinan
 
 Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internationale Diskurse anzuschließen und Ideen für Verbesserungsmöglichkeiten zu entwickeln. Auch soll die bessere Vernetzung von betroffenen DH-Segmenten gefördert werden.
 
-# Arbeitsschwerpunkte
+### Arbeitsschwerpunkte
 
 - Erarbeitung von Schwachstellen im Hinblick auf die Unterstützung nicht-lateinischer Schriften in DH-Infrastruktur.
 - Kritische **Diskussion** der deutschen und internationalen DH-Praxis im Hinblick auf (neo)koloniale Praktiken. Das umfasst Vokabular, Infrastruktur, Methodologien und Themenfelder. 
@@ -25,15 +20,11 @@ Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internati
 - Erarbeitung von Lösungsansätzen und Verbesserung technischer Anforderungen im Bereich der Multilingualität durch die Sichtbarmachung der Probleme im Austausch mit Entwicker\*innen.
 - **Vernetzung** von Akteur\*innen im Bereich multilinguale DH national und international auf und durch Workshops, Konferenzen und Publikationen
 
-# Website
+## Convenor-Team
 
-<https://m-l-d-h.github.io/DHd-AG/>
-<https://dig-hum.de/ag-multilingual-dh>
+Die AG wird organisiert von einem Team aus Freiwilligen, den Convenors. Jede:r Interessierte mit einer DHd-Mitgliedschaft kann sich jederzeit als Conveor zur Verfügung stellen, alle Entscheidungen werden immer transparent gehalten, die Protokolle der Treffen veröffentlichen wir im Wiki. Aktuell sind im Convenor-Team folgende Personen vertreten:
 
-# Mailinglist
-
-<dhd-ag-multilingual-dh@lists.digitalhumanities.org>
-
-# Wiki
-
-<https://github.com/M-L-D-H/DHd-AG/wiki>
+Cosima Wagner (Freie Universität Berlin)
+Jana Mende (Martin-Luther-Universität Halle-Wittenberg)
+Till Grallert (Humboldt-Universität Berlin)
+Jonas Müller-Laackman (Staats- und Universitätsbibliothek Hamburg)
