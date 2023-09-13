@@ -94,56 +94,28 @@ E-Mail: <cosima.wagner@fu-berlin.de>
 
 # Literatur {#bibliography .unnumbered}
 
-::: {#refs .references .csl-bib-body .hanging-indent}
-::: {#ref-Aiyegbusi+2019 .csl-entry}
 Aiyegbusi, Babalola Titilola. 2019. „Decolonizing Digital Humanities: Africa In Perspective". In *Bodies of Information: Intersectional Feminism and Digital Humanities*, herausgegeben von Elizabeth Losh und Jacqueline Wernimont, 434--46. Debates in the Digital Humanities. Minneapolis: University of Minnesota Press. <https://doi.org/10.5749/j.ctv9hj9r9.26>.
-:::
 
-::: {#ref-EndangeredAlphabets .csl-entry}
 „Endangered Alphabets -- Preserving endangered cultures". o. J. https://web.archive.org/web/20230228113928/https://www.endangeredalphabets.com/. Zugegriffen 28. Februar 2023. <https://www.endangeredalphabets.com/>.
-:::
 
-::: {#ref-FalleriniEtAl2022DREAM .csl-entry}
 Fallerini, Antonella, Agnese Galeffi, Andrea Ribichini, Mario Santanché, und Mattia Vallania. 2022. „DREAM: A Project about Non-Latin Script Data". In *BIbliographic Control in the Digital Ecosystem*, herausgegeben von Giovanni Bergamin und Mauro Guerrini, 347--55. Florence: Firenze University Press.
-:::
 
-::: {#ref-Fiormonte2021Taxation .csl-entry}
 Fiormonte, Domenico. 2021. „Taxation Against Overrepresentation? The Consequences of Monolingualism for Digital Humanities". In *Alternative Historiographies of the Digital Humanities*, herausgegeben von Dorothy Kim und Adeline Koh, 333--76. Earth: punctum books. <https://doi.org/10.53288/0274.1.00>.
-:::
 
-::: {#ref-FiormonteEtAl2015PoliticsOfCode .csl-entry}
 Fiormonte, Domenico, Desmond Schmidt, Paolo Monella, und Paolo Sordi. 2015. „The Politics of Code. How Digital Representations and Languages Shape Culture". In *ISIS Summit Vienna 2015---The Information Society at the Crossroads*. Vienna: MDPI AG. <https://doi.org/gkzc7v>.
-:::
 
-::: {#ref-Horvath2021Enhancing .csl-entry}
 Horvath, Aliz. 2021. „Enhancing Language Inclusivity in Digital Humanities: Towards Sensitivity and Multilingualism: Includes Interviews with Erzsébet Tóth-Czifra and Cosima Wagner". *Modern Languages Open*, Nr. 1 (Dezember): 26. <https://doi.org/10.3828/mlo.v0i0.382>.
-:::
 
-::: {#ref-Kim2018DecolonizeDH .csl-entry}
 Kim, Dorothy. 2018. „How to Decolonize DH: Actionable Steps for an Antifascist DH". In *Disrupting the Digital Humanities*, herausgegeben von Dorothy Kim und Jesse Stommel, 479--98. Punctum Books. <http://www.jstor.org/stable/j.ctv19cwdqv.31>.
-:::
 
-::: {#ref-Phillipson1997RealitiesAndMyths .csl-entry}
 Phillipson, Robert. 1997. „Realities and Myths of Linguistic Imperialism". *Journal of Multilingual and Multicultural Development* 18 (3): 238--48. <https://doi.org/db3cnb>.
-:::
 
-::: {#ref-WorldWritingSystems .csl-entry}
 „Project". 2022. The World's Writing Systems. September 2022. <https://www.worldswritingsystems.org/project.html>.
-:::
 
-::: {#ref-Risam2018DecolonizingDigitalHumanities .csl-entry}
 Risam, Roopika. 2018. „Decolonizing The Digital Humanities In Theory And Practice". In *The Routledge Companion to Media Studies and Digital Humanities*, herausgegeben von Jentery Sayers, 78--86. London: Routledge.
-:::
 
-::: {#ref-ScriptEncodingInitiative .csl-entry}
 „Script Encoding Initiative". o. J. https://web.archive.org/web/20230228215149/https://linguistics.berkeley.edu/sei/. Zugegriffen 28. Februar 2023. <https://linguistics.berkeley.edu/sei/>.
-:::
 
-::: {#ref-Spence2021Disrupting .csl-entry}
 Spence, Paul. 2021. „Disrupting Digital Monolingualism: A report on multilingualism in digital theory and practice". London: Language Acts & Worldmaking project. <https://doi.org/10.5281/zenodo.5743283>.
-:::
 
-::: {#ref-UNDRIP2007 .csl-entry}
 United Nations. 2007. „United Nations Declaration on the Rights of Indigenous Peoples". A/RES/61/295. United Nations. <https://undocs.org/A/RES/61/295>.
-:::
-:::
