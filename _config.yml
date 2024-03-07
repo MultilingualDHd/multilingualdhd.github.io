@@ -28,7 +28,7 @@ github_username:  multilingualdhd
 mastodon: mldh@fedihum.org
 
 # Build settings
-remote_theme: Hyde
+remote_theme: hyde
 plugins:
   - jekyll-feed
 
