@@ -14,4 +14,4 @@ Dies sind die Termine für die Community Hour 2024. Wenn ihr euch für einen bes
 
 Jeden ersten Donnerstag des Monats, 13 bis 14 Uhr. 
 
-2024-04-04.
+Nächster Termin 2024-04-04.
