@@ -28,7 +28,7 @@ github_username:  multilingualdhd
 mastodon: mldh@fedihum.org
 
 # Build settings
-remote-theme: Monophase
+theme: minima
 plugins:
   - jekyll-feed
 
